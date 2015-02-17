@@ -7,7 +7,7 @@ Overview
 This utility measures the Shannon entropy of its input file argument in 1-bit
 (binary), 4-bit (nybble), and 8-bit (byte) units.
 
-For mor information on calculating Shannon entropy, see:
+For more information on calculating Shannon entropy, see:
 [Entropy (information theory)](http://en.wikipedia.org/wiki/Entropy_%28information_theory%29)
 
 Build and Test
