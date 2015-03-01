@@ -1,3 +1,8 @@
+/* File: entropy_measurement.c
+   Author: Michael Bailey
+   License: WTFPL - http://www.wtfpl.net/
+*/
+
 #include <math.h>
 #include <string.h>
 

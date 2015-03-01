@@ -58,3 +58,7 @@ $ ./entutil ./urandom
 1.000000 3.999991 7.999335
 ```
 
+License
+=======
+Licensed under the WTFPL.  For details, see:
+[WTF Public License](http://www.wtfpl.net/)

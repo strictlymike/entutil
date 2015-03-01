@@ -1,3 +1,8 @@
+/* File: entropy_util.c
+   Author: Michael Bailey
+   License: WTFPL - http://www.wtfpl.net/
+*/
+
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/stat.h>

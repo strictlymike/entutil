@@ -1,3 +1,9 @@
+/* File: entropy_measurement.h
+   Author: Michael Bailey
+   License: WTFPL - http://www.wtfpl.net/
+   Notes: Don't forget to call ent_init()
+*/
+
 #ifndef __ENTROPY_MEASUREMENT_H
 #define __ENTROPY_MEASUREMENT_H
 
